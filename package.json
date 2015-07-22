@@ -1,0 +1,16 @@
+{
+  "name": "microservices-demo",
+  "version": "0.0.0",
+  "description": "A microservices demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Fox <peter.fox@peterfox.me>",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-aws-lambda": "^0.8.0",
+    "grunt-pack": "^0.1.5"
+  }
+}
